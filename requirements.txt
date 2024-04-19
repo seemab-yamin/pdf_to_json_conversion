@@ -1,0 +1,3 @@
+pandas
+camelot-py
+opencv-python
